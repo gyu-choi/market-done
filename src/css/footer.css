@@ -33,3 +33,9 @@ img {
   margin: 0 10px 0 10px;
   cursor: pointer;
 }
+
+button {
+  outline: none;
+  border: none;
+  background: none;
+}
