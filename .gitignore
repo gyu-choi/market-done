@@ -22,7 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-firebase.js
-
+.env
 # .gitignore에 작성하면 git에 업로드 되지 않음
 
